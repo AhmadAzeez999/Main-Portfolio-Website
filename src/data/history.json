@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Teaching Assistant",
+    "organisation": "TRU",
+    "startDate": "Jan 2025",
+    "endDate": "Apr 2025",
+    "experiences":  [
+                      "Assisted in instructing students in C and Assembly language programming, providing guidance on key concepts and troubleshooting code.",
+                      "Collaborated with instructors to facilitate learning in Android app development using Android Studio, offering support in debugging, project development, and comprehension of fundamental concepts."
+                    ],
+    "imageSrc": "history/TRU.png"
+  }
+]

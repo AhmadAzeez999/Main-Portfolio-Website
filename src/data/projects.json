@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Chat and Screen Sharing Application, Chatella",
+    "imageSrc": "projects/Chatapp.PNG",
+    "description": "Developed a chat application for sending text messages, voice messages, video call, voice call, and screen share. All in real-time.",
+    "skills": ["MongoDB", "ExpressJS", "React", "NodeJS"],
+    "demo": "https://youtu.be/GCNyNiCYRA0",
+    "source": "https://github.com/AhmadAzeez999/Chat-Application"
+  },
+  {
+    "title": "File Sharing, Storing, Viewing, and Downloading Platform, TubeTransfer",
+    "imageSrc": "projects/Tube transfer.PNG",
+    "description": "Developed a platform for storing, sharing, viewing and downloading different types of files.",
+    "skills": ["MongoDB", "ExpressJS", "Angular", "NodeJS"],
+    "demo": "https://youtu.be/keCEBDKyzd8",
+    "source": "https://github.com/Cipher-935/TubeTransfer"
+  },
+  {
+    "title": "E-Commerce Cosmetic Website, Cosmetico",
+    "imageSrc": "projects/Cosmetico.PNG",
+    "description": "Developed 'Cosmetico,' an e-commerce platform for a fictional cosmetics retailer, featuring secure login/signup, a shop, shopping cart, and dynamic forms. Built with PHP, jQuery, and MySQL.",
+    "skills": ["PHP", "jQuery", "Javascript", "CSS"],
+    "demo": "https://www.youtube.com/watch?v=qGvqZ8RU-hU",
+    "source": "https://github.com/AhmadAzeez999/Cosmetic-Website"
+  },
+  {
+    "title": "Product Recommendation Website, TechinEZ",
+    "imageSrc": "projects/TechinEZ.PNG",
+    "description": "TechinEZ is a website designed to simplify the process of finding and comparing tech products across various e-commerce websites. The website employs web scraping technology to gather product information based on user input, specifications, and budget constraints. Users can input the name of a product, set their budget, and add specific attributes to narrow down their search.",
+    "skills": ["NodeJS", "jQuery", "Flask", "CSS", "MongoDB"],
+    "demo": "https://youtu.be/xgyhx52fhIE",
+    "source": "https://github.com/AhmadAzeez999/Techin-EZ-Project"
+  }
+]
