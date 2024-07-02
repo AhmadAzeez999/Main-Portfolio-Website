@@ -5,7 +5,8 @@
     "description": "Developed a chat application for sending text messages, voice messages, video call, voice call, and screen share. All in real-time.",
     "skills": ["MongoDB", "ExpressJS", "React", "NodeJS"],
     "demo": "https://youtu.be/GCNyNiCYRA0",
-    "source": "https://github.com/AhmadAzeez999/Chat-Application"
+    "source": "https://github.com/AhmadAzeez999/Chat-Application",
+    "category": "Web Development"
   },
   {
     "title": "File Sharing, Storing, Viewing, and Downloading Platform, TubeTransfer",
@@ -13,7 +14,8 @@
     "description": "Developed a platform for storing, sharing, viewing and downloading different types of files.",
     "skills": ["MongoDB", "ExpressJS", "Angular", "NodeJS"],
     "demo": "https://youtu.be/keCEBDKyzd8",
-    "source": "https://github.com/Cipher-935/TubeTransfer"
+    "source": "https://github.com/Cipher-935/TubeTransfer",
+    "category": "Web Development"
   },
   {
     "title": "E-Commerce Cosmetic Website, Cosmetico",
@@ -21,7 +23,8 @@
     "description": "Developed 'Cosmetico,' an e-commerce platform for a fictional cosmetics retailer, featuring secure login/signup, a shop, shopping cart, and dynamic forms. Built with PHP, jQuery, and MySQL.",
     "skills": ["PHP", "jQuery", "Javascript", "CSS"],
     "demo": "https://www.youtube.com/watch?v=qGvqZ8RU-hU",
-    "source": "https://github.com/AhmadAzeez999/Cosmetic-Website"
+    "source": "https://github.com/AhmadAzeez999/Cosmetic-Website",
+    "category": "Web Development"
   },
   {
     "title": "Product Recommendation Website, TechinEZ",
@@ -29,6 +32,97 @@
     "description": "TechinEZ is a website designed to simplify the process of finding and comparing tech products across various e-commerce websites. The website employs web scraping technology to gather product information based on user input, specifications, and budget constraints. Users can input the name of a product, set their budget, and add specific attributes to narrow down their search.",
     "skills": ["NodeJS", "jQuery", "Flask", "CSS", "MongoDB"],
     "demo": "https://youtu.be/xgyhx52fhIE",
-    "source": "https://github.com/AhmadAzeez999/Techin-EZ-Project"
+    "source": "https://github.com/AhmadAzeez999/Techin-EZ-Project",
+    "category": "Web Development"
+  },
+  {
+    "title": "Automatic PNG Image Trimmer",
+    "imageSrc": "projects/APT.png",
+    "description": "Designed a website that automatically crops png images with transparent backgrounds. Removing irrelevant spaces.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ahmadazeez999.github.io/Automatic-PNG-Image-Trimmer/",
+    "source": "https://github.com/AhmadAzeez999/Automatic-PNG-Image-Trimmer",
+    "category": "Web Development"
+  },
+  {
+    "title": "Flashcard Website",
+    "imageSrc": "projects/Flashcard.png",
+    "description": "Designed a flashcard website.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ahmadazeez999.github.io/My-Flashcard-Website/",
+    "source": "https://github.com/AhmadAzeez999/My-Flashcard-Website",
+    "category": "Web Development"
+  },
+  {
+    "title": "Indie Game Studio Website, UPRAID Studios",
+    "imageSrc": "projects/UPRAID.png",
+    "description": "Designed a website for a made-up company called 'UPRAID'",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ahmadazeez999.github.io/Website-for-Indie-Game-Company/",
+    "source": "https://github.com/AhmadAzeez999/Website-for-Indie-Game-Company",
+    "category": "Web Development"
+  },
+  {
+    "title": "File Naming Convention Changer ",
+    "imageSrc": "projects/FNCC.png",
+    "description": "I developed an app that renames your files with a any popular naming convention",
+    "skills": ["C# Windows Forms", "Python"],
+    "demo": "https://github.com/AhmadAzeez999/File-Naming-Convention-Changer",
+    "source": "https://github.com/AhmadAzeez999/File-Naming-Convention-Changer",
+    "category": "Desktop App Development"
+  },
+  {
+    "title": "Text Editor",
+    "imageSrc": "projects/NA.png",
+    "description": "I developed a text editor with C# windows forms",
+    "skills": ["C# Windows Forms"],
+    "demo": "https://github.com/AhmadAzeez999/My-Text-Editor",
+    "source": "https://github.com/AhmadAzeez999/My-Text-Editor",
+    "category": "Desktop App Development"
+  },
+  {
+    "title": "Task Management Android App",
+    "imageSrc": "projects/Vidayuda.png",
+    "description": "I built a task management app where you can create schedules, reminders, and to-do lists.",
+    "skills": ["Android Studio", "Java", "XML"],
+    "demo": "https://appetize.io/app/wrjupenmxxqxetsbx2s5w6p3ra",
+    "source": "https://github.com/AhmadAzeez999/Task-Management-Android-App",
+    "category": "Mobile App Development"
+  },
+  {
+    "title": "My Programming Language, Garbio",
+    "imageSrc": "projects/Garbio.png",
+    "description": "A programming language I made with C ",
+    "skills": ["C", "Makefile"],
+    "demo": "https://garbio-ide.glitch.me/",
+    "source": "https://github.com/AhmadAzeez999/Garbio-Programming-Language",
+    "category": "Others"
+  },
+  {
+    "title": "Number Selection Calculator Firefox extension",
+    "imageSrc": "projects/NSC.png",
+    "description": "A Firefox extension that performs calculations on multiple selected numbers.",
+    "skills": ["HTML", "CSS", "Javasript"],
+    "demo": "https://addons.mozilla.org/en-CA/firefox/addon/number-selection-calculator/",
+    "source": "https://addons.mozilla.org/en-CA/firefox/addon/number-selection-calculator/",
+    "category": "Others"
+  },
+  {
+    "title": "Game Recomender",
+    "imageSrc": "projects/NA.png",
+    "description": "I made an algorithm that recommends games based on the user's input.",
+    "skills": ["Jupyter Notebook", "Python"],
+    "demo": "https://github.com/AhmadAzeez999/Game-Recommender",
+    "source": "https://github.com/AhmadAzeez999/Game-Recommender",
+    "category": "AI Projects"
+  },
+  {
+    "title": "Games",
+    "imageSrc": "projects/Games.png",
+    "description": "Click the link to view all the games I've created.",
+    "skills": ["Unity C#", "GameMaker GML"],
+    "demo": "https://abiodapro.itch.io/",
+    "source": "https://abiodapro.itch.io/",
+    "category": "Game Development"
   }
 ]
