@@ -7,10 +7,13 @@ export const Hero = () =>
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi! I'm Ahmad</h1>
+        <p className={styles.subtitle}>  
+          BCS | Full-Stack Developer | Game Developer | Cybersecurity Enthusiast
+        </p>
         <hr />
         <p className={styles.description}>  
-          I am a Computer Science student, passionate about both web development (my main focus)
-          and game development (as a hobby). I'm proficient in React, Angular, NodeJS, and Javascript.
+          I'm passionate about building innovative projects and solving 
+          real-world problems with code. I'm contantly exploring new technologies and learning, to improve my skills in development, problem-solving, and design.
         </p>
       </div>
       <div className={styles.topBlur} />

@@ -35,7 +35,7 @@ export const Navbar = () =>
   return (
     <nav className={`${styles.navbar} ${lightMode && styles.lightMode}`}>
       <a className={styles.title} href="/">
-        My Portfolio
+        Ahmad Azeez
       </a>
       <div className={styles.menu}>
         <img

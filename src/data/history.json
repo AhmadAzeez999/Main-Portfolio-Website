@@ -1,5 +1,17 @@
 [
   {
+    "role": "Full Stack Developer",
+    "organisation": "Koeman Canada",
+    "startDate": "Jul 2025",
+    "endDate": "Present",
+    "experiences":  [
+                      "Web designer",
+                      "Web developer",
+                      "Marketing"
+                    ],
+    "imageSrc": "history/koeman.png"
+  },
+  {
     "role": "Teaching Assistant",
     "organisation": "TRU",
     "startDate": "Jan 2025",

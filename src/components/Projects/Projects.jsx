@@ -9,6 +9,7 @@ const categories = [
     "Desktop App Development",
     "Game Development",
     "AI Projects",
+    "Cybersecurity",
     "Others"
 ];
 

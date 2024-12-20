@@ -38,12 +38,22 @@
   font-family: var(--font-roboto);
 }
 
+.subtitle 
+{
+  font-size: 20px;
+  font-family: var(--font-roboto);
+  margin-bottom: 30px;
+  text-align: center;
+  align-self: center;
+}
+
 .description 
 {
   font-size: 25px;
   font-family: var(--font-roboto);
   margin-bottom: 10px;
   text-align: center;
+  align-self: center;
 }
 
 .contactBtn 

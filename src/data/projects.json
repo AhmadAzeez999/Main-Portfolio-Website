@@ -1,5 +1,14 @@
 [
   {
+    "title": "Online Store, Aramot Beauty",
+    "imageSrc": "projects/Aramot.png",
+    "description": "Developed an online store for a cosmetic and skincare business.",
+    "skills": ["MongoDB", "ExpressJS", "React", "NodeJS", "Google Cloud"],
+    "demo": "https://aramotbeauty.com/",
+    "source": "",
+    "category": "Web Development"
+  },
+  {
     "title": "Chat and Screen Sharing Application, Chatella",
     "imageSrc": "projects/Chatapp.PNG",
     "description": "Developed a chat application for sending text messages, voice messages, video call, voice call, and screen share. All in real-time.",
@@ -122,7 +131,25 @@
     "description": "Click the link to view all the games I've created.",
     "skills": ["Unity C#", "GameMaker GML"],
     "demo": "https://abiodapro.itch.io/",
-    "source": "https://abiodapro.itch.io/",
+    "source": "",
     "category": "Game Development"
+  },
+  {
+    "title": "Engineival",
+    "imageSrc": "projects/Enginieval.png",
+    "description": "Developed a 2D Tower Defense combined with Top down Shooter game in Unity (inspired by Orcs Must Die).",
+    "skills": ["Unity C#"],
+    "demo": "https://youtu.be/-0tJUMr6a38",
+    "source": "",
+    "category": "Game Development"
+  },
+  {
+    "title": "PCapper",
+    "imageSrc": "projects/Enginieval.png",
+    "description": "Developed a 2D Tower Defense combined with Top down Shooter game in Unity (inspired by Orcs Must Die).",
+    "skills": ["Unity C#"],
+    "demo": "https://youtu.be/-0tJUMr6a38",
+    "source": "",
+    "category": "Cybersecurity"
   }
 ]
