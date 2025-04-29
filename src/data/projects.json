@@ -145,11 +145,11 @@
   },
   {
     "title": "PCapper",
-    "imageSrc": "projects/Enginieval.png",
-    "description": "Developed a 2D Tower Defense combined with Top down Shooter game in Unity (inspired by Orcs Must Die).",
-    "skills": ["Unity C#"],
-    "demo": "https://youtu.be/-0tJUMr6a38",
-    "source": "",
+    "imageSrc": "projects/FNCC.png",
+    "description": "Developed a network analysis tool to detect DNS, HTTPS, and SSH tunneling attacks by scanning and analyzing network traffic for suspicious patterns.",
+    "skills": ["C#", ".NET", "Network Analysis", "Network Security"],
+    "demo": "https://drive.google.com/file/d/1HuEZGE-Hd9gLqNosuJz1pBisK0JVTlwp/view?usp=sharing",
+    "source": "https://github.com/AhmadAzeez999/PCapper-Network-Packet-Analyzer-Tool",
     "category": "Cybersecurity"
   }
 ]
