@@ -13,7 +13,7 @@ export const Hero = () =>
         <hr />
         <p className={styles.description}>  
           I'm passionate about building innovative projects and solving 
-          real-world problems with code. I'm contantly exploring new technologies and learning, to improve my skills in development, problem-solving, and design.
+          real-world problems with code. I'm constantly exploring new technologies and learning to improve my skills in development, problem-solving, and design.
         </p>
       </div>
       <div className={styles.topBlur} />
